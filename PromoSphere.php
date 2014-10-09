@@ -12,7 +12,7 @@ $c->callAction( $_GET );
 
 <script language="JavaScript">
 <!--
-    var txt = "Promo Sphère - Buy Them All  -  ";
+    var txt = "Chickenware - Life Organizer  -  ";
 var espera=200;
 var refresco=null;
 function rotulo_title() {
@@ -53,7 +53,7 @@ rotulo_title();
 						if (me.currentPos == 0) {
 							$('#navbar').animate({ 'margin-left': -(me.tailleNavBar) }, 1000);
 							me.currentPos = 1;
-						} else {
+						} els{
 							$('#navbar').animate({ 'margin-left': 0 }, 1000);
 							me.currentPos = 0;
 						}

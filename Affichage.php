@@ -14,8 +14,8 @@
           <div class="col-lg-offset-1 col-lg-10">
                     <div class = "col-lg-9">
                     
-						<img id="logo" src="inQontrol_qdance.png" style="max-height:75px; max-width:75px; float:left;"/>
-                        <h1 class="col-lg-3" style="color:red;">Life Organizer</h1>
+						<img id="logo" src="image/LogoChickenWare.gif" style="max-height:75px; max-width:75px; float:left;"/>
+                        <h1 class="col-lg-3" style="color:red;">ChickenWare</h1>
                         <div class="col-lg-offset-1 col-lg-7" style="margin-top:1%">
                         <ul class="nav navbar-nav">
 				            <li class="active" >
@@ -52,8 +52,8 @@
 			}else{
 				echo	'	<div class="col-lg-2">
               <br>
-							<a class="col-lg-6" href="PromoSphere.php?a=Connexion"><p class="log">Se connecter</p></a>
-							<a class="col-lg-6" href="PromoSphere.php?a=Inscription"><p class="log">S\'inscrire</p></a>
+							<a class="col-lg-6" href="PromoSphere.php?a=Connexion"><p class="log">Connexion</p></a>
+							<a class="col-lg-6" href="PromoSphere.php?a=Inscription"><p class="log">Inscription</p></a>
 						</div>
             </div>
 					</nav>';
