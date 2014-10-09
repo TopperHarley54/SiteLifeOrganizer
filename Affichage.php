@@ -138,7 +138,8 @@
                                     <img class="img" src="LO.jpg" />
 						      </div>  <!-- fin de div contenant img --> 
 									<div class="col-lg-offset-3 col-lg-5" style="border-style:solid; border-radius: 5px; box-shadow: 5px 5px 15px black; background:#B8ABA5;"><div class="descr-box" style="font-size:inherit; text-shadow:inherit; font-weight:bolder;">
-                  <br>
+                  <br> Notre solution logiciel "Life Organizer" vous propose un calendrier innovant et intelligent. En effet celui ci vous permet d\'organiser vos journées à la minute près avec précision. 
+                  
 									</div></div>
                                    
 
